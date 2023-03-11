@@ -1,7 +1,7 @@
-#Kilomerters to Miles Calculator
+#Kilomerters to Miles Calculator ** Kilometers is mispelled **
 
 KILO = int (input ("Type in KILOMETERS to be converted into MILES\n"))
-MILE = int (KILO * 1.6)
+MILE = int (KILO * 1.6) # ** The math is here wrong for conversation **
 
 
 if KILO < 0:
